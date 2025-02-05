@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=05aba74e_002Dfd15_002D4173_002Da12c_002D3cd0f9958002/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddressTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:AddressTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:CustomerTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:MechanicTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:MotorcycleTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:PartTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:RepairTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;3CAD5FD1-9113-460D-9713-09A55728E43C/f:WorkshopDBContextTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
